@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
+// @ts-ignore
 import { Link } from 'react-scroll';
 import { ExternalLink, Github, Layout, Trophy, Phone, Mail, FileVideo, Users, Menu, X } from 'lucide-react';
 import { FaReact, FaNodeJs, FaHtml5, FaPython, FaJava, FaAws, FaGithub, FaDocker, FaFacebook, FaInstagram, FaYoutube, FaLine } from 'react-icons/fa';
